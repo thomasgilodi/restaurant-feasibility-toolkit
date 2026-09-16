@@ -1,6 +1,6 @@
-# 02 — Concept & Positioning Canvas
+# 02 - Concept & Positioning Canvas
 
-**Goal: define the concept precisely enough that someone else could pitch it — and stress-test it before spending a euro.**
+**Goal: define the concept precisely enough that someone else could pitch it - and stress-test it before spending a euro.**
 
 A "nice restaurant with good food" is not a concept. A concept is a specific answer to *who eats what, when, at what price, and why here rather than next door.*
 
@@ -8,7 +8,7 @@ One pattern that works: **combine two proven pillars that nobody offers together
 
 ---
 
-## Step 1 — The one-sentence concept
+## Step 1 - The one-sentence concept
 
 Fill in the blanks. If you can't, the concept isn't ready.
 
@@ -16,7 +16,7 @@ Fill in the blanks. If you can't, the concept isn't ready.
 
 *Example (fictional):* "Braise is a 35-seat charcoal-grill bistro for young professionals in the 11th who want a memorable dinner without fine-dining prices, offering a short open-fire menu at ~€40/head, unlike the neighbourhood's classic bistros which all serve the same duck confit."
 
-## Step 2 — Target customer & occasions
+## Step 2 - Target customer & occasions
 
 Define 2–3 personas maximum. For each:
 
@@ -31,7 +31,7 @@ Define 2–3 personas maximum. For each:
 
 > **Key check:** do these personas actually exist *in your catchment area* (see `01-market-study.md`)? A perfect persona who lives elsewhere is worthless.
 
-## Step 3 — Positioning map
+## Step 3 - Positioning map
 
 Place yourself and your 8–10 scored competitors on two axes. Classic pairs:
 
@@ -50,9 +50,9 @@ Place yourself and your 8–10 scored competitors on two axes. Classic pairs:
         functional / everyday
 ```
 
-**You are looking for white space that customers actually want** — an empty corner of the map is only an opportunity if Step 2 shows demand for it. (Empty corners are sometimes empty for a reason.)
+**You are looking for white space that customers actually want** - an empty corner of the map is only an opportunity if Step 2 shows demand for it. (Empty corners are sometimes empty for a reason.)
 
-## Step 4 — Menu architecture
+## Step 4 - Menu architecture
 
 The menu is the concept made operational. Decide the *structure* before any recipe:
 
@@ -62,14 +62,14 @@ The menu is the concept made operational. Decide the *structure* before any reci
 - **Beverage strategy:** drinks typically carry the best margins. What share of the ticket do you target? (25–35% is a common range.)
 - **Daypart coverage:** lunch formula? Brunch? Each added service must clear its own staffing cost.
 
-## Step 5 — Brand narrative & experience
+## Step 5 - Brand narrative & experience
 
 - **Name & story:** why does this place exist? One paragraph, no marketing jargon.
 - **Room & atmosphere:** 3 adjectives, and the one detail people will mention to friends.
 - **Service model:** counter / full service / hybrid — and what it implies for staffing (see financial model).
 - **Digital presence:** booking (walk-in vs reservation mix), Instagram-ability, Google reviews strategy from day 1.
 
-## Step 6 — Differentiation stress-test
+## Step 6 - Differentiation stress-test
 
 Answer brutally:
 
