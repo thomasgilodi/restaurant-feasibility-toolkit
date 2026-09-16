@@ -1,10 +1,10 @@
-# 🍽️ Restaurant Feasibility Toolkit
+# Restaurant Feasibility Toolkit
 
 **Open templates and frameworks for assessing whether a restaurant concept is worth opening — before you sign a lease.**
 
 I built these tools while developing my own restaurant venture in Paris (2025–2026): market and competitive research, concept design, financial modelling, on-the-ground feasibility work, and pitching to private investors. This repo is the anonymised, reusable version of that process — the method and the structure, with example figures only.
 
-> ⚠️ All numbers in this toolkit are **illustrative examples**, not real data from my project. Ratios and regulatory references are based on the **French market** (VAT rates, lease types, licences) but the frameworks themselves are country-agnostic.
+> All numbers in this toolkit are **illustrative examples**, not real data from my project. Ratios and regulatory references are based on the **French market** (VAT rates, lease types, licences) but the frameworks themselves are country-agnostic.
 
 ## What's inside
 
@@ -38,8 +38,8 @@ I built these tools while developing my own restaurant venture in Paris (2025–
 
 I'm **Thomas Gilodi** — business developer (ESCP Business School, Master in Management), with experience in luxury hospitality (Homanie) and go-to-market strategy (MA.J.E). I founded a restaurant venture end-to-end, from concept to investor pitch.
 
-📫 [LinkedIn](https://www.linkedin.com/in/thomas-gilodi-262930233) · tom.gilodi@gmail.com
+[LinkedIn](https://www.linkedin.com/in/thomas-gilodi-262930233) · thomas.gilodi@edu.escp.eu
 
 ## License
 
-Released under the [MIT License](LICENSE) — use it, adapt it, share it. A mention is appreciated but not required.
+Released under the [MIT License](LICENSE)
